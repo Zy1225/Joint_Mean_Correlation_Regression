@@ -8,7 +8,7 @@ There are currently three directories in this repository:
 
 -   `Codes`, which contains `R` functions implementing the proposed joint mean and correlation regression model and the iterative estimation method along with other functions for performing inferences on the model parameters.
 
--   `Simulations`, which contains template scripts to implement the simulation study in the manuscript based on Bernoulli/Poisson/Negative Binomial/Gaussian responses.
+-   `Simulations`, which contains template scripts `xxx_simulation.R` to implement the simulation study in the manuscript based on Bernoulli/Poisson/Negative Binomial/Gaussian responses. Also contained in this folder is a script `generate_X_and_W_matrices.R` that simulates the covariate matrices and similarity matrices stored in `X_matrix.rds` and `W_matrix.rds`, respectively, which are used in the simulation study. 
 
 -   `Applications`, which contains scripts applying the proposed model to the Scotland Carabidae ground beetle dataset (originally from [Ribera et al. 2001](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/0012-9658%282001%29082%5B1112%3AEOLDAS%5D2.0.CO%3B2)) and the France Alpine plant dataset (originally from the [aravo](https://cran.r-project.org/web/packages/lori/vignettes/aravo_data_analysis.html) package). For the ground beetle dataset, we only provide the environmental covariates and species traits that are used in the manuscript. **Users are recommended to start here by examining `carabidae_ground_beetle.R` or `aravo.R` to understand how to fit the proposed joint mean and correlation regression model and conduct statistical inference on its parameters.**
 
