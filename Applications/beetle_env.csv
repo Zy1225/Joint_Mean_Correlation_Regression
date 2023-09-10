@@ -1,0 +1,88 @@
+"No","Code","Land  use","Grid","Area","Sampling year","pH","Elevation","Management"
+1,"gs21","grazing and silage","NS3723","Auchincruive",1996,5.8,55,15
+2,"gs22","grazing and silage","NS3723","Auchincruive",1996,6,55,12
+3,"eg11","extensive grass","NY0392","Ae",1997,4.5,220,1
+4,"eg12","extensive grass","NY0491","Ae",1997,5.3,230,5
+5,"eg13","extensive grass","NY0491","Ae",1997,4.9,195,5
+6,"eg14","extensive grass","NY0392","Ae",1997,4.4,230,1
+7,"yh71","young heather","NN6386","Dalwhinnie",1996,3.8,390,3
+8,"oh72","old heather","NN6386","Dalwhinnie",1996,3.8,385,1
+9,"bh73","burnt heather","NN6386","Dalwhinnie",1996,3.9,390,7
+10,"gr11","grass","NY0585","Ae",1997,5.6,61,8
+11,"gr12","grass","NY0585","Ae",1997,5.3,62,16
+12,"sp13","spring barley","NY0485","Ae",1997,6.3,62,19
+13,"ww14","winter wheat","NY0485","Ae",1997,6.6,63,17
+14,"gr15","grass","NY0486","Ae",1997,5.8,62,16
+15,"se16","set aside-grass","NY0385","Ae",1997,7.1,70,12
+16,"fd17","fodder beet","NY0385","Ae",1997,5.9,70,16
+17,"he61","heather","NO6380","Glensaugh",1997,3.4,425,1
+18,"gr62","grass","NO6579","Glensaugh",1997,6.5,265,7
+19,"he63","heather","NO6581","Glensaugh",1997,3.6,430,1
+20,"gr64","grass","NO6678","Glensaugh",1997,5.7,170,15
+21,"gg65","gorse + grass","NO6678","Glensaugh",1997,4.2,170,1
+22,"yc51","young conifer woodland","NN3528","Crianlarich",1995,5,165,1
+23,"oc52","old conifer woodland","NN3528","Crianlarich",1995,4.9,165,4
+24,"wh51","wet heather moorland","NN3826","Crianlarich",1995,4,330,1
+25,"ug51","upland grassland - wet boggy flush","NN3530","Crianlarich",1995,4.6,270,1
+26,"dg52","dry upland grassland","NN3530","Crianlarich",1995,4.3,270,1
+27,"ig53","improved upland grassland","NN3530","Crianlarich",1995,5.2,360,4
+28,"ug54","upland grassland - flush","NN3825","Crianlarich",1995,4.5,165,1
+29,"dg55","dry upland grassland","NN3826","Crianlarich",1995,5.6,180,4
+30,"uh51","upland bare peat","NN3633","Crianlarich",1995,3.7,470,1
+31,"ug51","upland grassland - wet with Nardus","NN3632","Crianlarich",1995,4.9,500,1
+32,"bg52","base-rich upland grassland","NN3733","Crianlarich",1995,4.3,750,1
+33,"dg53","dry upland grassland with bracken","NN3826","Crianlarich",1995,4.2,280,4
+34,"gz51","grazing pasture","NN3528","Crianlarich",1995,5.5,165,9
+35,"si52","silage and grazing","NN3528","Crianlarich",1995,5.2,165,12
+36,"wt53","wet tussocky grassland","NN3825","Crianlarich",1995,4.6,155,4
+37,"wg54","wet grassland - mainly Myrica","NN3825","Crianlarich",1995,4.4,155,1
+38,"wb61","winter barley","NO6776","Glensaugh",1997,6.5,125,16
+39,"gr62","grass","NO6776","Glensaugh",1997,5.4,163,12
+40,"wb31","winter barley","NT5577","East Lothian",1996,6.6,25,20
+41,"ww32","winter wheat","NT5577","East Lothian",1996,7.1,30,18
+42,"so33","spring oil-seed rape","NT5776","East Lothian",1996,6.8,70,17
+43,"wr34","winter oil-seed rape","NT5776","East Lothian",1996,7.1,65,17
+44,"gz81","grazing","NH8479","Tain",1996,5.8,30,9
+45,"sp82","spring barley","NH8480","Tain",1996,5.6,30,16
+46,"se83","set aside","NH8479","Tain",1996,5.9,30,8
+47,"re84","reseed grazing","NH8479","Tain",1996,6,30,12
+48,"ww85","winter wheat","NH8579","Tain",1996,5.8,30,17
+49,"wb86","winter barley","NH8579","Tain",1996,5.9,30,17
+50,"wo87","winter oats","NH8478","Tain",1996,6,30,16
+51,"sp41","spring barley","NN9522","Crieff",1995,6.2,45,17
+52,"ww42","winter wheat","NN9523","Crieff",1995,5.9,50,16
+53,"wb41","winter barley","NN9424","Crieff",1995,6,140,19
+54,"wb42","winter barley","NN9524","Crieff",1995,6.3,130,19
+55,"sp41","spring barley","NN9522","Crieff",1995,6.4,35,17
+56,"so42","spring oilseed rape","NN9522","Crieff",1995,5.7,35,16
+57,"so43","spring oilseed rape","NN9522","Crieff",1995,5.3,35,16
+58,"oc41","old conifer woodland","NN9325","Crieff",1995,4.3,240,1
+59,"gh41","gorse at edge of heather moorland","NN9225","Crieff",1995,4.5,230,1
+60,"go41","gorse within grazing pasture","NN9324","Crieff",1995,5.3,200,3
+61,"wh41","wet heather moorland","NN9225","Crieff",1995,4.2,235,1
+62,"dh42","dry heather moorland newly burned","NN9225","Crieff",1995,4.3,230,6
+63,"ha91","hay","NC6563","Skerray",1996,6,30,5
+64,"fr9A","forage rape","NC6762","Skerray",1996,5.7,20,13
+65,"gz92","grazing","NC6663","Skerray",1996,5.1,35,3
+66,"re93","reseed grazing","NC6662","Skerray",1996,6.3,20,11
+67,"we94","wet grazing","NC6662","Skerray",1996,5,20,4
+68,"re95","reseed grazing","NC6762","Skerray",1996,5.3,35,4
+69,"ro96","rough grazing","NC6762","Skerray",1996,5.3,60,2
+70,"he97","heather moor","NC6762","Skerray",1996,4.4,70,2
+71,"tu98","turnips","NC6762","Skerray",1996,5.4,40,10
+72,"fr99","forage rape","NC6762","Skerray",1996,4.8,20,9
+73,"si41","silage and grazing","NN9423","Crieff",1995,6,95,12
+74,"gz42","grazing pasture","NN9423","Crieff",1995,5.7,90,10
+75,"gz43","grazing pasture","NN9424","Crieff",1995,5.3,145,7
+76,"gz44","grazing pasture - 'rough' wet area","NN9424","Crieff",1995,5.7,170,3
+77,"gz41","grazing pasture - wet 'marshy' area","NN9425","Crieff",1995,5.5,230,6
+78,"gz42","grazing pasture - drier area","NN9425","Crieff",1995,5.9,235,6
+79,"gz41","grazing pasture","NN9424","Crieff",1995,5.6,215,9
+80,"gz42","grazing pasture","NN9424","Crieff",1995,5.7,220,8
+81,"gz41","grazing pasture - area of rushes","NN9422","Crieff",1995,5.2,35,10
+82,"gz42","grazing pasture","NN9422","Crieff",1995,5.4,35,10
+83,"se41","setaside","NN9523","Crieff",1995,6.3,40,12
+84,"se42","setaside","NN9523","Crieff",1995,5.8,50,12
+85,"gr61","grass","NO6874","Glensaugh",1997,5.9,70,12
+86,"sp62","spring barley","NO6874","Glensaugh",1997,6.2,67,16
+87,"so63","spring oil seed rape","NO6974","Glensaugh",1997,6.1,67,16
