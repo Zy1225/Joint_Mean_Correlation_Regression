@@ -34,7 +34,7 @@ spe_mean/spe_var
 
 
 log_log_plot = ggplot(data = data.frame(spe_mean,spe_var), aes(x = spe_mean, y = spe_var)) + geom_point() + scale_x_log10() + scale_y_log10() + theme_bw() + 
-  xlab('Species Mean') + ylab('Species Variance') + ggtitle('Log-log Plot for Species-Specific Samples variances Against Sample Means') + theme(plot.title = element_text(hjust = 0.5))
+  xlab('Species Mean') + ylab('Species Variance') + ggtitle('Log-log Plot for Sample Variances Against Sample Means of Species Counts') + theme(plot.title = element_text(hjust = 0.5))
 log_log_plot
 
 #Compute initial values 
